@@ -1,0 +1,9 @@
+{
+  "https://example.com/basket": {
+    "form_buttons": [{ "xpath": "//button[@id='addButton']" }]
+  },
+
+  "https://example.com": {
+    "form_buttons": []
+  }
+}

@@ -1,0 +1,10 @@
+{
+    "browser_type": "Chrome",
+    "login_required": false,
+    "login_url": " ",
+    "username_element": "",
+    "password_element": "",
+    "login_button_element": "",
+    "username": "",
+    "password": ""
+}
